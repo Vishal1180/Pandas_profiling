@@ -1,2 +1,2 @@
 # Pandas_profiling
-Also know as ydata_profiling
+Also known as ydata_profiling
